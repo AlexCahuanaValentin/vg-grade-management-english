@@ -14,7 +14,7 @@ The goal of the **Grade Management System** is to provide an efficient platform 
 
 ## 🛠️ **Setup Instructions** (Imperatives)
 1. **Clone** the repository:  
-   `git clone https://github.com/YourOrg/grade-management.git`  
+   `https://github.com/AlexCahuanaValentin/vg-grade-management-english.git`  
 2. **Navigate** to the backend directory:  
    `cd grade-management/backend`  
 3. **Run** the Spring Boot app:  
